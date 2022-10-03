@@ -10,10 +10,21 @@ Tutorial for GitHub
 
 Tutorial for Git
 1. Download the application using https://git-scm.com/download/win
-2. Choose where on your PC you would like to download it
+2. Choose where on your PC you would like to install it
 3. Complete your download and open Git
 4. After it's opened type git init to create a local repository
 5. You then use "git remote add origin https://github.com/[your-username]/[repository-name.git]" to finalize the local repository
 6. You can add files to the local repository using "git add [filename]"
 7. You can create a commit using the "git commit" command.
 
+Tutorial for WebStorm
+1. Download the application using https://www.jetbrains.com/webstorm/download/#section=windows
+2. Choose where on your PC you would like to install it
+3. Create an account on JetBrains to activate WebStorm or to start a free 30 day trial
+4. You are brought to the homepage where you can start a new project or open one
+5. You can create a new project using different programs
+6. You can use Bootstrap, HTML5 Boilerplate, Node.js, etc
+7. Once you open the new project you can make a HTML file, Java file, etc.
+
+References:
+https://phoenixnap.com/kb/how-to-use-git
