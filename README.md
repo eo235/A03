@@ -29,26 +29,28 @@ Tutorial for WebStorm
 References:
 https://phoenixnap.com/kb/how-to-use-git
 
-Branch - an independent line of development
+Key Terms
 
-Clone - copying a repository from github.com to your local device
+# Branch - an independent line of development
 
-Commit - an individual change to a file
+# Clone - copying a repository from github.com to your local device
 
-Fetch - downloads files, refs, and commits from the remote repository into your local repository
+# Commit - an individual change to a file
 
-GIT - a version control system that lets you manage and keep track of your source code history
+# Fetch - downloads files, refs, and commits from the remote repository into your local repository
 
-GitHub - a cloud-based hosting service that lets you manage Git repositories
+# GIT - a version control system that lets you manage and keep track of your source code history
 
-Merge - moving the independent lines of development into a single branch
+# GitHub - a cloud-based hosting service that lets you manage Git repositories
 
-Merge Conflict - when you merge branches that have competing commits
+# Merge - moving the independent lines of development into a single branch
 
-Push - when you transfer commits from your local repository to a remote repository
+# Merge Conflict - when you merge branches that have competing commits
 
-Pull - lets you tell others about changes you've pushed to a branch in a repository on GitHub
+# Push - when you transfer commits from your local repository to a remote repository
 
-Remote - a common repository that all team members use to exchange their changes
+# Pull - lets you tell others about changes you've pushed to a branch in a repository on GitHub
 
-Repository - contains all of your project's files and each file's revision history
+# Remote - a common repository that all team members use to exchange their changes
+
+# Repository - contains all of your project's files and each file's revision history
