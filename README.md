@@ -31,26 +31,26 @@ https://phoenixnap.com/kb/how-to-use-git
 
 Key Terms
 
-# Branch - an independent line of development
+**Branch** - an independent line of development
 
-# Clone - copying a repository from github.com to your local device
+**Clone** - copying a repository from github.com to your local device
 
-# Commit - an individual change to a file
+**Commit** - an individual change to a file
 
-# Fetch - downloads files, refs, and commits from the remote repository into your local repository
+**Fetch** - downloads files, refs, and commits from the remote repository into your local repository
 
-# GIT - a version control system that lets you manage and keep track of your source code history
+**GIT** - a version control system that lets you manage and keep track of your source code history
 
-# GitHub - a cloud-based hosting service that lets you manage Git repositories
+**GitHub** - a cloud-based hosting service that lets you manage Git repositories
 
-# Merge - moving the independent lines of development into a single branch
+**Merge** - moving the independent lines of development into a single branch
 
-# Merge Conflict - when you merge branches that have competing commits
+**Merge Conflict** - when you merge branches that have competing commits
 
-# Push - when you transfer commits from your local repository to a remote repository
+**Push** - when you transfer commits from your local repository to a remote repository
 
-# Pull - lets you tell others about changes you've pushed to a branch in a repository on GitHub
+**Pull** - lets you tell others about changes you've pushed to a branch in a repository on GitHub
 
-# Remote - a common repository that all team members use to exchange their changes
+**Remote** - a common repository that all team members use to exchange their changes
 
-# Repository - contains all of your project's files and each file's revision history
+**Repository** - contains all of your project's files and each file's revision history
